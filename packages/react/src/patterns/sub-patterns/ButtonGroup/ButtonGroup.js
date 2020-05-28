@@ -5,6 +5,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 import { Button } from 'carbon-components-react';
+import cx from 'classnames';
 import { settings as ddsSettings } from '@carbon/ibmdotcom-utilities';
 import PropTypes from 'prop-types';
 import React from 'react';
@@ -21,28 +22,37 @@ const { prefix } = settings;
  * @param {string} props.buttons[].copy Button copy
  * @param {string} props.buttons[].href URL for the button item
  * @param {object} props.buttons[].renderIcon Optional icon type
+ * @param {boolean} props.inverse theming options
  * @returns {*} button components
  */
-const ButtonGroup = ({ buttons }) => (
-  <ol
-    className={`${prefix}--buttongroup`}
-    data-autoid={`${stablePrefix}--button-group`}>
-    {buttons.map((button, key) => {
-      return (
-        <li key={key} className={`${prefix}--buttongroup-item`}>
-          <Button
-            tabIndex={key === 0 ? 2 : 1}
-            data-autoid={`${stablePrefix}--button-group-${key}`}
-            {...button}
-            type="button"
-            kind={key === 0 ? 'primary' : 'tertiary'}>
-            {button.copy}
-          </Button>
-        </li>
-      );
-    })}
-  </ol>
-);
+const ButtonGroup = ({ buttons, inverse }) => {
+
+  const classnames = cx(
+    `${prefix}--buttongroup`,
+    { [`${prefix}--buttongroup--inverse`]: inverse },
+  );
+
+  return (
+    <ol
+      className={classnames}
+      data-autoid={`${stablePrefix}--button-group`}>
+      {buttons.map((button, key) => {
+        return (
+          <li key={key} className={`${prefix}--buttongroup-item`}>
+            <Button
+              tabIndex={key === 0 ? 2 : 1}
+              data-autoid={`${stablePrefix}--button-group-${key}`}
+              {...button}
+              type="button"
+              kind={key === 0 ? 'primary' : 'tertiary'}>
+              {button.copy}
+            </Button>
+          </li>
+        );
+      })}
+    </ol>
+  );
+};
 
 ButtonGroup.propTypes = {
   buttons: PropTypes.arrayOf(
@@ -52,6 +62,7 @@ ButtonGroup.propTypes = {
       renderIcon: PropTypes.object,
     })
   ),
+  inverse: PropTypes.bool,
 };
 
 export default ButtonGroup;

@@ -153,8 +153,8 @@ exports[`Storyshots Components|CTA Default 1`] = `
                                         width={20}
                                         xmlns="http://www.w3.org/2000/svg"
                                       >
-                                        <polygon
-                                          points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                        <path
+                                          d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                         />
                                       </svg>
                                     </Icon>
@@ -892,8 +892,8 @@ exports[`Storyshots Components|Dotcom Shell Default 1`] = `
                                                 width={20}
                                                 xmlns="http://www.w3.org/2000/svg"
                                               >
-                                                <polygon
-                                                  points="24 9.4 22.6 8 16 14.6 9.4 8 8 9.4 14.6 16 8 22.6 9.4 24 16 17.4 22.6 24 24 22.6 17.4 16 24 9.4"
+                                                <path
+                                                  d="M24 9.4L22.6 8 16 14.6 9.4 8 8 9.4 14.6 16 8 22.6 9.4 24 16 17.4 22.6 24 24 22.6 17.4 16 24 9.4z"
                                                 />
                                               </svg>
                                             </Icon>
@@ -1010,10 +1010,7 @@ exports[`Storyshots Components|Dotcom Shell Default 1`] = `
                                                     xmlns="http://www.w3.org/2000/svg"
                                                   >
                                                     <path
-                                                      d="M16,4a5,5,0,1,1-5,5,5,5,0,0,1,5-5m0-2a7,7,0,1,0,7,7A7,7,0,0,0,16,2Z"
-                                                    />
-                                                    <path
-                                                      d="M26,30H24V25a5,5,0,0,0-5-5H13a5,5,0,0,0-5,5v5H6V25a7,7,0,0,1,7-7h6a7,7,0,0,1,7,7Z"
+                                                      d="M16 4a5 5 0 11-5 5 5 5 0 015-5m0-2a7 7 0 107 7A7 7 0 0016 2zM26 30H24V25a5 5 0 00-5-5H13a5 5 0 00-5 5v5H6V25a7 7 0 017-7h6a7 7 0 017 7z"
                                                     />
                                                   </svg>
                                                 </Icon>
@@ -2054,8 +2051,8 @@ exports[`Storyshots Components|Expressive Modal Default 1`] = `
                                 width={20}
                                 xmlns="http://www.w3.org/2000/svg"
                               >
-                                <polygon
-                                  points="24 9.4 22.6 8 16 14.6 9.4 8 8 9.4 14.6 16 8 22.6 9.4 24 16 17.4 22.6 24 24 22.6 17.4 16 24 9.4"
+                                <path
+                                  d="M24 9.4L22.6 8 16 14.6 9.4 8 8 9.4 14.6 16 8 22.6 9.4 24 16 17.4 22.6 24 24 22.6 17.4 16 24 9.4z"
                                 />
                               </svg>
                             </Icon>
@@ -2156,8 +2153,8 @@ exports[`Storyshots Components|Expressive Modal Default 1`] = `
                                             width={20}
                                             xmlns="http://www.w3.org/2000/svg"
                                           >
-                                            <polygon
-                                              points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                            <path
+                                              d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                             />
                                           </svg>
                                         </Icon>
@@ -2354,8 +2351,8 @@ exports[`Storyshots Components|Expressive Modal Expanded 1`] = `
                                 width={20}
                                 xmlns="http://www.w3.org/2000/svg"
                               >
-                                <polygon
-                                  points="24 9.4 22.6 8 16 14.6 9.4 8 8 9.4 14.6 16 8 22.6 9.4 24 16 17.4 22.6 24 24 22.6 17.4 16 24 9.4"
+                                <path
+                                  d="M24 9.4L22.6 8 16 14.6 9.4 8 8 9.4 14.6 16 8 22.6 9.4 24 16 17.4 22.6 24 24 22.6 17.4 16 24 9.4z"
                                 />
                               </svg>
                             </Icon>
@@ -2456,8 +2453,8 @@ exports[`Storyshots Components|Expressive Modal Expanded 1`] = `
                                             width={20}
                                             xmlns="http://www.w3.org/2000/svg"
                                           >
-                                            <polygon
-                                              points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                            <path
+                                              d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                             />
                                           </svg>
                                         </Icon>
@@ -3363,8 +3360,8 @@ exports[`Storyshots Components|LightboxMediaViewer Default 1`] = `
                                     width={20}
                                     xmlns="http://www.w3.org/2000/svg"
                                   >
-                                    <polygon
-                                      points="24 9.4 22.6 8 16 14.6 9.4 8 8 9.4 14.6 16 8 22.6 9.4 24 16 17.4 22.6 24 24 22.6 17.4 16 24 9.4"
+                                    <path
+                                      d="M24 9.4L22.6 8 16 14.6 9.4 8 8 9.4 14.6 16 8 22.6 9.4 24 16 17.4 22.6 24 24 22.6 17.4 16 24 9.4z"
                                     />
                                   </svg>
                                 </Icon>
@@ -3590,8 +3587,8 @@ exports[`Storyshots Components|LightboxMediaViewer Embedded Video Player 1`] = `
                                     width={20}
                                     xmlns="http://www.w3.org/2000/svg"
                                   >
-                                    <polygon
-                                      points="24 9.4 22.6 8 16 14.6 9.4 8 8 9.4 14.6 16 8 22.6 9.4 24 16 17.4 22.6 24 24 22.6 17.4 16 24 9.4"
+                                    <path
+                                      d="M24 9.4L22.6 8 16 14.6 9.4 8 8 9.4 14.6 16 8 22.6 9.4 24 16 17.4 22.6 24 24 22.6 17.4 16 24 9.4z"
                                     />
                                   </svg>
                                 </Icon>
@@ -3783,8 +3780,8 @@ exports[`Storyshots Components|Link with Icon Default 1`] = `
                               width={20}
                               xmlns="http://www.w3.org/2000/svg"
                             >
-                              <polygon
-                                points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                              <path
+                                d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                               />
                             </svg>
                           </Icon>
@@ -4451,8 +4448,8 @@ exports[`Storyshots Components|Masthead Default 1`] = `
                                               width={20}
                                               xmlns="http://www.w3.org/2000/svg"
                                             >
-                                              <polygon
-                                                points="24 9.4 22.6 8 16 14.6 9.4 8 8 9.4 14.6 16 8 22.6 9.4 24 16 17.4 22.6 24 24 22.6 17.4 16 24 9.4"
+                                              <path
+                                                d="M24 9.4L22.6 8 16 14.6 9.4 8 8 9.4 14.6 16 8 22.6 9.4 24 16 17.4 22.6 24 24 22.6 17.4 16 24 9.4z"
                                               />
                                             </svg>
                                           </Icon>
@@ -4569,10 +4566,7 @@ exports[`Storyshots Components|Masthead Default 1`] = `
                                                   xmlns="http://www.w3.org/2000/svg"
                                                 >
                                                   <path
-                                                    d="M16,4a5,5,0,1,1-5,5,5,5,0,0,1,5-5m0-2a7,7,0,1,0,7,7A7,7,0,0,0,16,2Z"
-                                                  />
-                                                  <path
-                                                    d="M26,30H24V25a5,5,0,0,0-5-5H13a5,5,0,0,0-5,5v5H6V25a7,7,0,0,1,7-7h6a7,7,0,0,1,7,7Z"
+                                                    d="M16 4a5 5 0 11-5 5 5 5 0 015-5m0-2a7 7 0 107 7A7 7 0 0016 2zM26 30H24V25a5 5 0 00-5-5H13a5 5 0 00-5 5v5H6V25a7 7 0 017-7h6a7 7 0 017 7z"
                                                   />
                                                 </svg>
                                               </Icon>
@@ -5130,8 +5124,8 @@ exports[`Storyshots Components|Masthead Search open by default 1`] = `
                                               width={20}
                                               xmlns="http://www.w3.org/2000/svg"
                                             >
-                                              <polygon
-                                                points="24 9.4 22.6 8 16 14.6 9.4 8 8 9.4 14.6 16 8 22.6 9.4 24 16 17.4 22.6 24 24 22.6 17.4 16 24 9.4"
+                                              <path
+                                                d="M24 9.4L22.6 8 16 14.6 9.4 8 8 9.4 14.6 16 8 22.6 9.4 24 16 17.4 22.6 24 24 22.6 17.4 16 24 9.4z"
                                               />
                                             </svg>
                                           </Icon>
@@ -5248,10 +5242,7 @@ exports[`Storyshots Components|Masthead Search open by default 1`] = `
                                                   xmlns="http://www.w3.org/2000/svg"
                                                 >
                                                   <path
-                                                    d="M16,4a5,5,0,1,1-5,5,5,5,0,0,1,5-5m0-2a7,7,0,1,0,7,7A7,7,0,0,0,16,2Z"
-                                                  />
-                                                  <path
-                                                    d="M26,30H24V25a5,5,0,0,0-5-5H13a5,5,0,0,0-5,5v5H6V25a7,7,0,0,1,7-7h6a7,7,0,0,1,7,7Z"
+                                                    d="M16 4a5 5 0 11-5 5 5 5 0 015-5m0-2a7 7 0 107 7A7 7 0 0016 2zM26 30H24V25a5 5 0 00-5-5H13a5 5 0 00-5 5v5H6V25a7 7 0 017-7h6a7 7 0 017 7z"
                                                   />
                                                 </svg>
                                               </Icon>
@@ -5799,8 +5790,8 @@ exports[`Storyshots Patterns (Blocks)|CalloutQuote Default 1`] = `
                                                     width={20}
                                                     xmlns="http://www.w3.org/2000/svg"
                                                   >
-                                                    <polygon
-                                                      points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                    <path
+                                                      d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                     />
                                                   </svg>
                                                 </Icon>
@@ -6514,8 +6505,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockCards Default 1`] = `
                                                       width={20}
                                                       xmlns="http://www.w3.org/2000/svg"
                                                     >
-                                                      <polygon
-                                                        points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                      <path
+                                                        d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                       />
                                                     </svg>
                                                   </Icon>
@@ -6624,8 +6615,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockCards Default 1`] = `
                                                       width={20}
                                                       xmlns="http://www.w3.org/2000/svg"
                                                     >
-                                                      <polygon
-                                                        points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                      <path
+                                                        d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                       />
                                                     </svg>
                                                   </Icon>
@@ -6734,8 +6725,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockCards Default 1`] = `
                                                       width={20}
                                                       xmlns="http://www.w3.org/2000/svg"
                                                     >
-                                                      <polygon
-                                                        points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                      <path
+                                                        d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                       />
                                                     </svg>
                                                   </Icon>
@@ -6844,8 +6835,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockCards Default 1`] = `
                                                       width={20}
                                                       xmlns="http://www.w3.org/2000/svg"
                                                     >
-                                                      <polygon
-                                                        points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                      <path
+                                                        d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                       />
                                                     </svg>
                                                   </Icon>
@@ -6954,8 +6945,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockCards Default 1`] = `
                                                       width={20}
                                                       xmlns="http://www.w3.org/2000/svg"
                                                     >
-                                                      <polygon
-                                                        points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                      <path
+                                                        d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                       />
                                                     </svg>
                                                   </Icon>
@@ -7712,8 +7703,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMedia Default 1`] = `
                                                               width={20}
                                                               xmlns="http://www.w3.org/2000/svg"
                                                             >
-                                                              <polygon
-                                                                points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                              <path
+                                                                d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                               />
                                                             </svg>
                                                           </Icon>
@@ -8081,8 +8072,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMedia Default 1`] = `
                                                               width={20}
                                                               xmlns="http://www.w3.org/2000/svg"
                                                             >
-                                                              <polygon
-                                                                points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                              <path
+                                                                d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                               />
                                                             </svg>
                                                           </Icon>
@@ -8321,8 +8312,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMedia Default 1`] = `
                                                             width={20}
                                                             xmlns="http://www.w3.org/2000/svg"
                                                           >
-                                                            <polygon
-                                                              points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                            <path
+                                                              d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                             />
                                                           </svg>
                                                         </Icon>
@@ -9204,8 +9195,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMedia With aside elements 1`] 
                                                                       width={20}
                                                                       xmlns="http://www.w3.org/2000/svg"
                                                                     >
-                                                                      <polygon
-                                                                        points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                                      <path
+                                                                        d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                                       />
                                                                     </svg>
                                                                   </Icon>
@@ -9573,8 +9564,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMedia With aside elements 1`] 
                                                                       width={20}
                                                                       xmlns="http://www.w3.org/2000/svg"
                                                                     >
-                                                                      <polygon
-                                                                        points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                                      <path
+                                                                        d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                                       />
                                                                     </svg>
                                                                   </Icon>
@@ -9813,8 +9804,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMedia With aside elements 1`] 
                                                                     width={20}
                                                                     xmlns="http://www.w3.org/2000/svg"
                                                                   >
-                                                                    <polygon
-                                                                      points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                                    <path
+                                                                      d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                                     />
                                                                   </svg>
                                                                 </Icon>
@@ -9997,8 +9988,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMedia With aside elements 1`] 
                                                                   width={20}
                                                                   xmlns="http://www.w3.org/2000/svg"
                                                                 >
-                                                                  <polygon
-                                                                    points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                                  <path
+                                                                    d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                                   />
                                                                 </svg>
                                                               </Icon>
@@ -10142,8 +10133,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMedia With aside elements 1`] 
                                                                   <path
                                                                     d="M26,28H6a2,2,0,0,1-2-2V6A2,2,0,0,1,6,4h9V6H6V26H26V17h2v9A2,2,0,0,1,26,28Z"
                                                                   />
-                                                                  <polygon
-                                                                    points="21 2 21 4 26.59 4 18 12.59 19.41 14 28 5.41 28 11 30 11 30 2 21 2"
+                                                                  <path
+                                                                    d="M21 2L21 4 26.59 4 18 12.59 19.41 14 28 5.41 28 11 30 11 30 2 21 2z"
                                                                   />
                                                                 </svg>
                                                               </Icon>
@@ -10752,8 +10743,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMixed Default 1`] = `
                                                               width={20}
                                                               xmlns="http://www.w3.org/2000/svg"
                                                             >
-                                                              <polygon
-                                                                points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                              <path
+                                                                d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                               />
                                                             </svg>
                                                           </Icon>
@@ -10864,8 +10855,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMixed Default 1`] = `
                                                               width={20}
                                                               xmlns="http://www.w3.org/2000/svg"
                                                             >
-                                                              <polygon
-                                                                points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                              <path
+                                                                d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                               />
                                                             </svg>
                                                           </Icon>
@@ -10976,8 +10967,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMixed Default 1`] = `
                                                               width={20}
                                                               xmlns="http://www.w3.org/2000/svg"
                                                             >
-                                                              <polygon
-                                                                points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                              <path
+                                                                d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                               />
                                                             </svg>
                                                           </Icon>
@@ -11088,8 +11079,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMixed Default 1`] = `
                                                               width={20}
                                                               xmlns="http://www.w3.org/2000/svg"
                                                             >
-                                                              <polygon
-                                                                points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                              <path
+                                                                d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                               />
                                                             </svg>
                                                           </Icon>
@@ -11356,8 +11347,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMixed Default 1`] = `
                                                                         width={20}
                                                                         xmlns="http://www.w3.org/2000/svg"
                                                                       >
-                                                                        <polygon
-                                                                          points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                                        <path
+                                                                          d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                                         />
                                                                       </svg>
                                                                     </Icon>
@@ -11547,8 +11538,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMixed Default 1`] = `
                                                                         width={20}
                                                                         xmlns="http://www.w3.org/2000/svg"
                                                                       >
-                                                                        <polygon
-                                                                          points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                                        <path
+                                                                          d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                                         />
                                                                       </svg>
                                                                     </Icon>
@@ -11737,8 +11728,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMixed Default 1`] = `
                                                                         width={20}
                                                                         xmlns="http://www.w3.org/2000/svg"
                                                                       >
-                                                                        <polygon
-                                                                          points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                                        <path
+                                                                          d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                                         />
                                                                       </svg>
                                                                     </Icon>
@@ -12099,8 +12090,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMixed Default 1`] = `
                                                     width={20}
                                                     xmlns="http://www.w3.org/2000/svg"
                                                   >
-                                                    <polygon
-                                                      points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                    <path
+                                                      d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                     />
                                                   </svg>
                                                 </Icon>
@@ -12824,8 +12815,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMixed With aside elements 1`] 
                                                                       width={20}
                                                                       xmlns="http://www.w3.org/2000/svg"
                                                                     >
-                                                                      <polygon
-                                                                        points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                                      <path
+                                                                        d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                                       />
                                                                     </svg>
                                                                   </Icon>
@@ -12936,8 +12927,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMixed With aside elements 1`] 
                                                                       width={20}
                                                                       xmlns="http://www.w3.org/2000/svg"
                                                                     >
-                                                                      <polygon
-                                                                        points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                                      <path
+                                                                        d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                                       />
                                                                     </svg>
                                                                   </Icon>
@@ -13048,8 +13039,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMixed With aside elements 1`] 
                                                                       width={20}
                                                                       xmlns="http://www.w3.org/2000/svg"
                                                                     >
-                                                                      <polygon
-                                                                        points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                                      <path
+                                                                        d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                                       />
                                                                     </svg>
                                                                   </Icon>
@@ -13160,8 +13151,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMixed With aside elements 1`] 
                                                                       width={20}
                                                                       xmlns="http://www.w3.org/2000/svg"
                                                                     >
-                                                                      <polygon
-                                                                        points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                                      <path
+                                                                        d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                                       />
                                                                     </svg>
                                                                   </Icon>
@@ -13428,8 +13419,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMixed With aside elements 1`] 
                                                                                 width={20}
                                                                                 xmlns="http://www.w3.org/2000/svg"
                                                                               >
-                                                                                <polygon
-                                                                                  points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                                                <path
+                                                                                  d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                                                 />
                                                                               </svg>
                                                                             </Icon>
@@ -13619,8 +13610,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMixed With aside elements 1`] 
                                                                                 width={20}
                                                                                 xmlns="http://www.w3.org/2000/svg"
                                                                               >
-                                                                                <polygon
-                                                                                  points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                                                <path
+                                                                                  d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                                                 />
                                                                               </svg>
                                                                             </Icon>
@@ -13809,8 +13800,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMixed With aside elements 1`] 
                                                                                 width={20}
                                                                                 xmlns="http://www.w3.org/2000/svg"
                                                                               >
-                                                                                <polygon
-                                                                                  points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                                                <path
+                                                                                  d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                                                 />
                                                                               </svg>
                                                                             </Icon>
@@ -14171,8 +14162,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMixed With aside elements 1`] 
                                                             width={20}
                                                             xmlns="http://www.w3.org/2000/svg"
                                                           >
-                                                            <polygon
-                                                              points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                            <path
+                                                              d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                             />
                                                           </svg>
                                                         </Icon>
@@ -14351,8 +14342,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMixed With aside elements 1`] 
                                                                   width={20}
                                                                   xmlns="http://www.w3.org/2000/svg"
                                                                 >
-                                                                  <polygon
-                                                                    points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                                  <path
+                                                                    d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                                   />
                                                                 </svg>
                                                               </Icon>
@@ -14496,8 +14487,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockMixed With aside elements 1`] 
                                                                   <path
                                                                     d="M26,28H6a2,2,0,0,1-2-2V6A2,2,0,0,1,6,4h9V6H6V26H26V17h2v9A2,2,0,0,1,26,28Z"
                                                                   />
-                                                                  <polygon
-                                                                    points="21 2 21 4 26.59 4 18 12.59 19.41 14 28 5.41 28 11 30 11 30 2 21 2"
+                                                                  <path
+                                                                    d="M21 2L21 4 26.59 4 18 12.59 19.41 14 28 5.41 28 11 30 11 30 2 21 2z"
                                                                   />
                                                                 </svg>
                                                               </Icon>
@@ -15199,8 +15190,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockSegmented Default 1`] = `
                                                     width={20}
                                                     xmlns="http://www.w3.org/2000/svg"
                                                   >
-                                                    <polygon
-                                                      points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                    <path
+                                                      d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                     />
                                                   </svg>
                                                 </Icon>
@@ -16017,8 +16008,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockSegmented With aside elements 
                                                             width={20}
                                                             xmlns="http://www.w3.org/2000/svg"
                                                           >
-                                                            <polygon
-                                                              points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                            <path
+                                                              d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                             />
                                                           </svg>
                                                         </Icon>
@@ -16197,8 +16188,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockSegmented With aside elements 
                                                                   width={20}
                                                                   xmlns="http://www.w3.org/2000/svg"
                                                                 >
-                                                                  <polygon
-                                                                    points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                                  <path
+                                                                    d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                                   />
                                                                 </svg>
                                                               </Icon>
@@ -16342,8 +16333,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockSegmented With aside elements 
                                                                   <path
                                                                     d="M26,28H6a2,2,0,0,1-2-2V6A2,2,0,0,1,6,4h9V6H6V26H26V17h2v9A2,2,0,0,1,26,28Z"
                                                                   />
-                                                                  <polygon
-                                                                    points="21 2 21 4 26.59 4 18 12.59 19.41 14 28 5.41 28 11 30 11 30 2 21 2"
+                                                                  <path
+                                                                    d="M21 2L21 4 26.59 4 18 12.59 19.41 14 28 5.41 28 11 30 11 30 2 21 2z"
                                                                   />
                                                                 </svg>
                                                               </Icon>
@@ -16834,8 +16825,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockSimple Default 1`] = `
                                                     width={20}
                                                     xmlns="http://www.w3.org/2000/svg"
                                                   >
-                                                    <polygon
-                                                      points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                    <path
+                                                      d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                     />
                                                   </svg>
                                                 </Icon>
@@ -17436,8 +17427,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockSimple With aside elements 1`]
                                                             width={20}
                                                             xmlns="http://www.w3.org/2000/svg"
                                                           >
-                                                            <polygon
-                                                              points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                            <path
+                                                              d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                             />
                                                           </svg>
                                                         </Icon>
@@ -17616,8 +17607,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockSimple With aside elements 1`]
                                                                   width={20}
                                                                   xmlns="http://www.w3.org/2000/svg"
                                                                 >
-                                                                  <polygon
-                                                                    points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                                  <path
+                                                                    d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                                   />
                                                                 </svg>
                                                               </Icon>
@@ -17761,8 +17752,8 @@ exports[`Storyshots Patterns (Blocks)|ContentBlockSimple With aside elements 1`]
                                                                   <path
                                                                     d="M26,28H6a2,2,0,0,1-2-2V6A2,2,0,0,1,6,4h9V6H6V26H26V17h2v9A2,2,0,0,1,26,28Z"
                                                                   />
-                                                                  <polygon
-                                                                    points="21 2 21 4 26.59 4 18 12.59 19.41 14 28 5.41 28 11 30 11 30 2 21 2"
+                                                                  <path
+                                                                    d="M21 2L21 4 26.59 4 18 12.59 19.41 14 28 5.41 28 11 30 11 30 2 21 2z"
                                                                   />
                                                                 </svg>
                                                               </Icon>
@@ -18069,8 +18060,8 @@ exports[`Storyshots Patterns (Blocks)|ContentGroupCards Default 1`] = `
                                                     width={20}
                                                     xmlns="http://www.w3.org/2000/svg"
                                                   >
-                                                    <polygon
-                                                      points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                    <path
+                                                      d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                     />
                                                   </svg>
                                                 </Icon>
@@ -18181,8 +18172,8 @@ exports[`Storyshots Patterns (Blocks)|ContentGroupCards Default 1`] = `
                                                     width={20}
                                                     xmlns="http://www.w3.org/2000/svg"
                                                   >
-                                                    <polygon
-                                                      points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                    <path
+                                                      d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                     />
                                                   </svg>
                                                 </Icon>
@@ -18293,8 +18284,8 @@ exports[`Storyshots Patterns (Blocks)|ContentGroupCards Default 1`] = `
                                                     width={20}
                                                     xmlns="http://www.w3.org/2000/svg"
                                                   >
-                                                    <polygon
-                                                      points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                    <path
+                                                      d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                     />
                                                   </svg>
                                                 </Icon>
@@ -18405,8 +18396,8 @@ exports[`Storyshots Patterns (Blocks)|ContentGroupCards Default 1`] = `
                                                     width={20}
                                                     xmlns="http://www.w3.org/2000/svg"
                                                   >
-                                                    <polygon
-                                                      points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                    <path
+                                                      d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                     />
                                                   </svg>
                                                 </Icon>
@@ -18760,8 +18751,8 @@ exports[`Storyshots Patterns (Blocks)|ContentGroupHorizontal Default 1`] = `
                                                           width={20}
                                                           xmlns="http://www.w3.org/2000/svg"
                                                         >
-                                                          <polygon
-                                                            points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                          <path
+                                                            d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                           />
                                                         </svg>
                                                       </Icon>
@@ -18842,8 +18833,8 @@ exports[`Storyshots Patterns (Blocks)|ContentGroupHorizontal Default 1`] = `
                                                           <path
                                                             d="M26,28H6a2,2,0,0,1-2-2V6A2,2,0,0,1,6,4h9V6H6V26H26V17h2v9A2,2,0,0,1,26,28Z"
                                                           />
-                                                          <polygon
-                                                            points="21 2 21 4 26.59 4 18 12.59 19.41 14 28 5.41 28 11 30 11 30 2 21 2"
+                                                          <path
+                                                            d="M21 2L21 4 26.59 4 18 12.59 19.41 14 28 5.41 28 11 30 11 30 2 21 2z"
                                                           />
                                                         </svg>
                                                       </Icon>
@@ -18985,8 +18976,8 @@ exports[`Storyshots Patterns (Blocks)|ContentGroupHorizontal Default 1`] = `
                                                           width={20}
                                                           xmlns="http://www.w3.org/2000/svg"
                                                         >
-                                                          <polygon
-                                                            points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                          <path
+                                                            d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                           />
                                                         </svg>
                                                       </Icon>
@@ -19067,8 +19058,8 @@ exports[`Storyshots Patterns (Blocks)|ContentGroupHorizontal Default 1`] = `
                                                           <path
                                                             d="M26,28H6a2,2,0,0,1-2-2V6A2,2,0,0,1,6,4h9V6H6V26H26V17h2v9A2,2,0,0,1,26,28Z"
                                                           />
-                                                          <polygon
-                                                            points="21 2 21 4 26.59 4 18 12.59 19.41 14 28 5.41 28 11 30 11 30 2 21 2"
+                                                          <path
+                                                            d="M21 2L21 4 26.59 4 18 12.59 19.41 14 28 5.41 28 11 30 11 30 2 21 2z"
                                                           />
                                                         </svg>
                                                       </Icon>
@@ -19205,8 +19196,8 @@ exports[`Storyshots Patterns (Blocks)|ContentGroupHorizontal Default 1`] = `
                                                           width={20}
                                                           xmlns="http://www.w3.org/2000/svg"
                                                         >
-                                                          <polygon
-                                                            points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                          <path
+                                                            d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                           />
                                                         </svg>
                                                       </Icon>
@@ -20196,8 +20187,8 @@ exports[`Storyshots Patterns (Blocks)|ContentGroupSimple Default 1`] = `
                                                     width={20}
                                                     xmlns="http://www.w3.org/2000/svg"
                                                   >
-                                                    <polygon
-                                                      points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                    <path
+                                                      d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                     />
                                                   </svg>
                                                 </Icon>
@@ -20468,8 +20459,8 @@ exports[`Storyshots Patterns (Blocks)|FeatureCard Default 1`] = `
                                               width={20}
                                               xmlns="http://www.w3.org/2000/svg"
                                             >
-                                              <polygon
-                                                points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                              <path
+                                                d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                               />
                                             </svg>
                                           </Icon>
@@ -20737,8 +20728,8 @@ exports[`Storyshots Patterns (Blocks)|FeatureCardBlockLarge Default 1`] = `
                                         width={20}
                                         xmlns="http://www.w3.org/2000/svg"
                                       >
-                                        <polygon
-                                          points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                        <path
+                                          d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                         />
                                       </svg>
                                     </Icon>
@@ -21102,8 +21093,8 @@ exports[`Storyshots Patterns (Sections)|CTASection Default 1`] = `
                                               width={20}
                                               xmlns="http://www.w3.org/2000/svg"
                                             >
-                                              <polygon
-                                                points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                              <path
+                                                d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                               />
                                             </svg>
                                           </Icon>
@@ -21227,8 +21218,8 @@ exports[`Storyshots Patterns (Sections)|CTASection Default 1`] = `
                                               width={20}
                                               xmlns="http://www.w3.org/2000/svg"
                                             >
-                                              <polygon
-                                                points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                              <path
+                                                d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                               />
                                             </svg>
                                           </Icon>
@@ -21338,8 +21329,8 @@ exports[`Storyshots Patterns (Sections)|CTASection Default 1`] = `
                                               width={20}
                                               xmlns="http://www.w3.org/2000/svg"
                                             >
-                                              <polygon
-                                                points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                              <path
+                                                d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                               />
                                             </svg>
                                           </Icon>
@@ -21753,8 +21744,8 @@ exports[`Storyshots Patterns (Sections)|CardSectionImages Default 1`] = `
                                                 width={20}
                                                 xmlns="http://www.w3.org/2000/svg"
                                               >
-                                                <polygon
-                                                  points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                <path
+                                                  d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                 />
                                               </svg>
                                             </Icon>
@@ -21883,8 +21874,8 @@ exports[`Storyshots Patterns (Sections)|CardSectionImages Default 1`] = `
                                                 width={20}
                                                 xmlns="http://www.w3.org/2000/svg"
                                               >
-                                                <polygon
-                                                  points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                <path
+                                                  d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                 />
                                               </svg>
                                             </Icon>
@@ -22013,8 +22004,8 @@ exports[`Storyshots Patterns (Sections)|CardSectionImages Default 1`] = `
                                                 width={20}
                                                 xmlns="http://www.w3.org/2000/svg"
                                               >
-                                                <polygon
-                                                  points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                <path
+                                                  d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                 />
                                               </svg>
                                             </Icon>
@@ -22143,8 +22134,8 @@ exports[`Storyshots Patterns (Sections)|CardSectionImages Default 1`] = `
                                                 width={20}
                                                 xmlns="http://www.w3.org/2000/svg"
                                               >
-                                                <polygon
-                                                  points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                <path
+                                                  d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                 />
                                               </svg>
                                             </Icon>
@@ -22273,8 +22264,8 @@ exports[`Storyshots Patterns (Sections)|CardSectionImages Default 1`] = `
                                                 width={20}
                                                 xmlns="http://www.w3.org/2000/svg"
                                               >
-                                                <polygon
-                                                  points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                <path
+                                                  d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                 />
                                               </svg>
                                             </Icon>
@@ -22633,8 +22624,8 @@ exports[`Storyshots Patterns (Sections)|CardSectionSimple Default 1`] = `
                                                 width={20}
                                                 xmlns="http://www.w3.org/2000/svg"
                                               >
-                                                <polygon
-                                                  points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                <path
+                                                  d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                 />
                                               </svg>
                                             </Icon>
@@ -22743,8 +22734,8 @@ exports[`Storyshots Patterns (Sections)|CardSectionSimple Default 1`] = `
                                                 width={20}
                                                 xmlns="http://www.w3.org/2000/svg"
                                               >
-                                                <polygon
-                                                  points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                <path
+                                                  d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                 />
                                               </svg>
                                             </Icon>
@@ -22853,8 +22844,8 @@ exports[`Storyshots Patterns (Sections)|CardSectionSimple Default 1`] = `
                                                 width={20}
                                                 xmlns="http://www.w3.org/2000/svg"
                                               >
-                                                <polygon
-                                                  points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                <path
+                                                  d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                 />
                                               </svg>
                                             </Icon>
@@ -22963,8 +22954,8 @@ exports[`Storyshots Patterns (Sections)|CardSectionSimple Default 1`] = `
                                                 width={20}
                                                 xmlns="http://www.w3.org/2000/svg"
                                               >
-                                                <polygon
-                                                  points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                <path
+                                                  d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                 />
                                               </svg>
                                             </Icon>
@@ -23073,8 +23064,8 @@ exports[`Storyshots Patterns (Sections)|CardSectionSimple Default 1`] = `
                                                 width={20}
                                                 xmlns="http://www.w3.org/2000/svg"
                                               >
-                                                <polygon
-                                                  points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                <path
+                                                  d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                 />
                                               </svg>
                                             </Icon>
@@ -23170,8 +23161,8 @@ exports[`Storyshots Patterns (Sections)|CardSectionSimple Default 1`] = `
                                                 width={20}
                                                 xmlns="http://www.w3.org/2000/svg"
                                               >
-                                                <polygon
-                                                  points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                <path
+                                                  d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                 />
                                               </svg>
                                             </Icon>
@@ -23460,8 +23451,8 @@ exports[`Storyshots Patterns (Sections)|LeadSpace Default with image 1`] = `
                                           width={20}
                                           xmlns="http://www.w3.org/2000/svg"
                                         >
-                                          <polygon
-                                            points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                          <path
+                                            d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                           />
                                         </svg>
                                       </Icon>
@@ -23521,8 +23512,8 @@ exports[`Storyshots Patterns (Sections)|LeadSpace Default with image 1`] = `
                                           width={20}
                                           xmlns="http://www.w3.org/2000/svg"
                                         >
-                                          <polygon
-                                            points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                          <path
+                                            d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                           />
                                         </svg>
                                       </Icon>
@@ -23799,8 +23790,8 @@ exports[`Storyshots Patterns (Sections)|LeadSpace Default with no image 1`] = `
                                           width={20}
                                           xmlns="http://www.w3.org/2000/svg"
                                         >
-                                          <polygon
-                                            points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                          <path
+                                            d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                           />
                                         </svg>
                                       </Icon>
@@ -23858,8 +23849,8 @@ exports[`Storyshots Patterns (Sections)|LeadSpace Default with no image 1`] = `
                                           width={20}
                                           xmlns="http://www.w3.org/2000/svg"
                                         >
-                                          <polygon
-                                            points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                          <path
+                                            d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                           />
                                         </svg>
                                       </Icon>
@@ -23909,13 +23900,7 @@ exports[`Storyshots Patterns (Sub-Patterns)|ButtonGroup Default 1`] = `
           Object {
             "content": <React.Fragment>
               <div
-                className="bx-grid"
-                style={
-                  Object {
-                    "backgroundColor": "black",
-                    "padding": "2rem",
-                  }
-                }
+                className="bx--grid bx--buttongroup-grid--regular"
               >
                 <div
                   style={
@@ -23953,6 +23938,7 @@ exports[`Storyshots Patterns (Sub-Patterns)|ButtonGroup Default 1`] = `
                           },
                         ]
                       }
+                      inverse={false}
                     />
                   </div>
                 </div>
@@ -23987,6 +23973,7 @@ exports[`Storyshots Patterns (Sub-Patterns)|ButtonGroup Default 1`] = `
                       },
                     ]
                   }
+                  inverse={false}
                 />
               </div>
             </React.Fragment>,
@@ -24017,13 +24004,7 @@ exports[`Storyshots Patterns (Sub-Patterns)|ButtonGroup Default 1`] = `
           >
             <div>
               <div
-                className="bx-grid"
-                style={
-                  Object {
-                    "backgroundColor": "black",
-                    "padding": "2rem",
-                  }
-                }
+                className="bx--grid bx--buttongroup-grid--regular"
               >
                 <div
                   style={
@@ -24061,6 +24042,7 @@ exports[`Storyshots Patterns (Sub-Patterns)|ButtonGroup Default 1`] = `
                           },
                         ]
                       }
+                      inverse={false}
                     >
                       <ol
                         className="bx--buttongroup"
@@ -24116,8 +24098,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|ButtonGroup Default 1`] = `
                                     width={20}
                                     xmlns="http://www.w3.org/2000/svg"
                                   >
-                                    <polygon
-                                      points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                    <path
+                                      d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                     />
                                   </svg>
                                 </Icon>
@@ -24175,8 +24157,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|ButtonGroup Default 1`] = `
                                     width={20}
                                     xmlns="http://www.w3.org/2000/svg"
                                   >
-                                    <polygon
-                                      points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                    <path
+                                      d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                     />
                                   </svg>
                                 </Icon>
@@ -24219,6 +24201,7 @@ exports[`Storyshots Patterns (Sub-Patterns)|ButtonGroup Default 1`] = `
                       },
                     ]
                   }
+                  inverse={false}
                 >
                   <ol
                     className="bx--buttongroup"
@@ -24274,8 +24257,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|ButtonGroup Default 1`] = `
                                 width={20}
                                 xmlns="http://www.w3.org/2000/svg"
                               >
-                                <polygon
-                                  points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                <path
+                                  d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                 />
                               </svg>
                             </Icon>
@@ -24333,8 +24316,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|ButtonGroup Default 1`] = `
                                 width={20}
                                 xmlns="http://www.w3.org/2000/svg"
                               >
-                                <polygon
-                                  points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                <path
+                                  d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                 />
                               </svg>
                             </Icon>
@@ -24667,8 +24650,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|Card Link/Clickable 1`] = `
                                       width={20}
                                       xmlns="http://www.w3.org/2000/svg"
                                     >
-                                      <polygon
-                                        points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                      <path
+                                        d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                       />
                                     </svg>
                                   </Icon>
@@ -24920,8 +24903,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|Card Static 1`] = `
                                                     width={20}
                                                     xmlns="http://www.w3.org/2000/svg"
                                                   >
-                                                    <polygon
-                                                      points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                    <path
+                                                      d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                     />
                                                   </svg>
                                                 </Icon>
@@ -25223,8 +25206,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|CardGroup default 1`] = `
                                           width={20}
                                           xmlns="http://www.w3.org/2000/svg"
                                         >
-                                          <polygon
-                                            points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                          <path
+                                            d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                           />
                                         </svg>
                                       </Icon>
@@ -25333,8 +25316,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|CardGroup default 1`] = `
                                           width={20}
                                           xmlns="http://www.w3.org/2000/svg"
                                         >
-                                          <polygon
-                                            points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                          <path
+                                            d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                           />
                                         </svg>
                                       </Icon>
@@ -25443,8 +25426,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|CardGroup default 1`] = `
                                           width={20}
                                           xmlns="http://www.w3.org/2000/svg"
                                         >
-                                          <polygon
-                                            points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                          <path
+                                            d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                           />
                                         </svg>
                                       </Icon>
@@ -25553,8 +25536,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|CardGroup default 1`] = `
                                           width={20}
                                           xmlns="http://www.w3.org/2000/svg"
                                         >
-                                          <polygon
-                                            points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                          <path
+                                            d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                           />
                                         </svg>
                                       </Icon>
@@ -25663,8 +25646,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|CardGroup default 1`] = `
                                           width={20}
                                           xmlns="http://www.w3.org/2000/svg"
                                         >
-                                          <polygon
-                                            points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                          <path
+                                            d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                           />
                                         </svg>
                                       </Icon>
@@ -25760,8 +25743,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|CardGroup default 1`] = `
                                           width={20}
                                           xmlns="http://www.w3.org/2000/svg"
                                         >
-                                          <polygon
-                                            points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                          <path
+                                            d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                           />
                                         </svg>
                                       </Icon>
@@ -26055,8 +26038,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|ContentBlock Default 1`] = `
                                                 <path
                                                   d="M26,28H6a2,2,0,0,1-2-2V6A2,2,0,0,1,6,4h9V6H6V26H26V17h2v9A2,2,0,0,1,26,28Z"
                                                 />
-                                                <polygon
-                                                  points="21 2 21 4 26.59 4 18 12.59 19.41 14 28 5.41 28 11 30 11 30 2 21 2"
+                                                <path
+                                                  d="M21 2L21 4 26.59 4 18 12.59 19.41 14 28 5.41 28 11 30 11 30 2 21 2z"
                                                 />
                                               </svg>
                                             </Icon>
@@ -26447,8 +26430,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|ContentBlock With aside elements 1`]
                                                         <path
                                                           d="M26,28H6a2,2,0,0,1-2-2V6A2,2,0,0,1,6,4h9V6H6V26H26V17h2v9A2,2,0,0,1,26,28Z"
                                                         />
-                                                        <polygon
-                                                          points="21 2 21 4 26.59 4 18 12.59 19.41 14 28 5.41 28 11 30 11 30 2 21 2"
+                                                        <path
+                                                          d="M21 2L21 4 26.59 4 18 12.59 19.41 14 28 5.41 28 11 30 11 30 2 21 2z"
                                                         />
                                                       </svg>
                                                     </Icon>
@@ -26627,8 +26610,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|ContentBlock With aside elements 1`]
                                                               width={20}
                                                               xmlns="http://www.w3.org/2000/svg"
                                                             >
-                                                              <polygon
-                                                                points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                              <path
+                                                                d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                               />
                                                             </svg>
                                                           </Icon>
@@ -26772,8 +26755,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|ContentBlock With aside elements 1`]
                                                               <path
                                                                 d="M26,28H6a2,2,0,0,1-2-2V6A2,2,0,0,1,6,4h9V6H6V26H26V17h2v9A2,2,0,0,1,26,28Z"
                                                               />
-                                                              <polygon
-                                                                points="21 2 21 4 26.59 4 18 12.59 19.41 14 28 5.41 28 11 30 11 30 2 21 2"
+                                                              <path
+                                                                d="M21 2L21 4 26.59 4 18 12.59 19.41 14 28 5.41 28 11 30 11 30 2 21 2z"
                                                               />
                                                             </svg>
                                                           </Icon>
@@ -27048,8 +27031,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|ContentGroup Default 1`] = `
                                                 width={20}
                                                 xmlns="http://www.w3.org/2000/svg"
                                               >
-                                                <polygon
-                                                  points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                <path
+                                                  d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                 />
                                               </svg>
                                             </Icon>
@@ -27392,8 +27375,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|ContentItem Default 1`] = `
                                             width={20}
                                             xmlns="http://www.w3.org/2000/svg"
                                           >
-                                            <polygon
-                                              points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                            <path
+                                              d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                             />
                                           </svg>
                                         </Icon>
@@ -27634,8 +27617,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|ContentItemHorizontal Default 1`] = 
                                                   width={20}
                                                   xmlns="http://www.w3.org/2000/svg"
                                                 >
-                                                  <polygon
-                                                    points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                  <path
+                                                    d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                   />
                                                 </svg>
                                               </Icon>
@@ -27716,8 +27699,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|ContentItemHorizontal Default 1`] = 
                                                   <path
                                                     d="M26,28H6a2,2,0,0,1-2-2V6A2,2,0,0,1,6,4h9V6H6V26H26V17h2v9A2,2,0,0,1,26,28Z"
                                                   />
-                                                  <polygon
-                                                    points="21 2 21 4 26.59 4 18 12.59 19.41 14 28 5.41 28 11 30 11 30 2 21 2"
+                                                  <path
+                                                    d="M21 2L21 4 26.59 4 18 12.59 19.41 14 28 5.41 28 11 30 11 30 2 21 2z"
                                                   />
                                                 </svg>
                                               </Icon>
@@ -28675,8 +28658,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|LinkList Default 1`] = `
                                                   width={20}
                                                   xmlns="http://www.w3.org/2000/svg"
                                                 >
-                                                  <polygon
-                                                    points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                  <path
+                                                    d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                   />
                                                 </svg>
                                               </Icon>
@@ -28817,8 +28800,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|LinkList Default 1`] = `
                                                   width={20}
                                                   xmlns="http://www.w3.org/2000/svg"
                                                 >
-                                                  <polygon
-                                                    points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                  <path
+                                                    d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                   />
                                                 </svg>
                                               </Icon>
@@ -29240,8 +29223,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|PictogramItem Default 1`] = `
                                                     width={20}
                                                     xmlns="http://www.w3.org/2000/svg"
                                                   >
-                                                    <polygon
-                                                      points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                                    <path
+                                                      d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                                     />
                                                   </svg>
                                                 </Icon>
@@ -29460,8 +29443,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|Quote Default 1`] = `
                                         width={20}
                                         xmlns="http://www.w3.org/2000/svg"
                                       >
-                                        <polygon
-                                          points="11.8,2.8 10.8,3.8 16.2,9.3 1,9.3 1,10.7 16.2,10.7 10.8,16.2 11.8,17.2 19,10"
+                                        <path
+                                          d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"
                                         />
                                       </svg>
                                     </Icon>
@@ -29787,53 +29770,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|Table of Contents Dynamic Items 1`] 
                                         width={20}
                                         xmlns="http://www.w3.org/2000/svg"
                                       >
-                                        <rect
-                                          height="2"
-                                          width="18"
-                                          x="4"
-                                          y="6"
-                                        />
-                                        <rect
-                                          height="2"
-                                          width="18"
-                                          x="4"
-                                          y="12"
-                                        />
-                                        <rect
-                                          height="2"
-                                          width="18"
-                                          x="4"
-                                          y="18"
-                                        />
-                                        <rect
-                                          height="2"
-                                          width="18"
-                                          x="4"
-                                          y="24"
-                                        />
-                                        <rect
-                                          height="2"
-                                          width="2"
-                                          x="26"
-                                          y="6"
-                                        />
-                                        <rect
-                                          height="2"
-                                          width="2"
-                                          x="26"
-                                          y="12"
-                                        />
-                                        <rect
-                                          height="2"
-                                          width="2"
-                                          x="26"
-                                          y="18"
-                                        />
-                                        <rect
-                                          height="2"
-                                          width="2"
-                                          x="26"
-                                          y="24"
+                                        <path
+                                          d="M4 6H22V8H4zM4 12H22V14H4zM4 18H22V20H4zM4 24H22V26H4zM26 6H28V8H26zM26 12H28V14H26zM26 18H28V20H26zM26 24H28V26H26z"
                                         />
                                         <title>
                                           menu icon
@@ -30476,53 +30414,8 @@ exports[`Storyshots Patterns (Sub-Patterns)|Table of Contents Manually define Me
                                         width={20}
                                         xmlns="http://www.w3.org/2000/svg"
                                       >
-                                        <rect
-                                          height="2"
-                                          width="18"
-                                          x="4"
-                                          y="6"
-                                        />
-                                        <rect
-                                          height="2"
-                                          width="18"
-                                          x="4"
-                                          y="12"
-                                        />
-                                        <rect
-                                          height="2"
-                                          width="18"
-                                          x="4"
-                                          y="18"
-                                        />
-                                        <rect
-                                          height="2"
-                                          width="18"
-                                          x="4"
-                                          y="24"
-                                        />
-                                        <rect
-                                          height="2"
-                                          width="2"
-                                          x="26"
-                                          y="6"
-                                        />
-                                        <rect
-                                          height="2"
-                                          width="2"
-                                          x="26"
-                                          y="12"
-                                        />
-                                        <rect
-                                          height="2"
-                                          width="2"
-                                          x="26"
-                                          y="18"
-                                        />
-                                        <rect
-                                          height="2"
-                                          width="2"
-                                          x="26"
-                                          y="24"
+                                        <path
+                                          d="M4 6H22V8H4zM4 12H22V14H4zM4 18H22V20H4zM4 24H22V26H4zM26 6H28V8H26zM26 12H28V14H26zM26 18H28V20H26zM26 24H28V26H26z"
                                         />
                                         <title>
                                           menu icon

@@ -6,11 +6,15 @@
  */
 
 import { ArrowDown20, ArrowRight20, Pdf20 } from '@carbon/icons-react';
-import { number, select, text, withKnobs } from '@storybook/addon-knobs';
+import { boolean, number, select, text, withKnobs } from '@storybook/addon-knobs';
 import ButtonGroup from '../ButtonGroup';
+import cx from 'classnames';
 import React from 'react';
 import readme from '../README.md';
+import {settings} from "carbon-components";
 import { storiesOf } from '@storybook/react';
+
+const { prefix } = settings;
 
 storiesOf('Patterns (Sub-Patterns)|ButtonGroup', module)
   .addDecorator(withKnobs)
@@ -47,27 +51,29 @@ storiesOf('Patterns (Sub-Patterns)|ButtonGroup', module)
       });
     }
 
+    const inverse = boolean('inverse', false);
+    const isInverseClass = inverse ? 'inverse' : 'regular';
+
     return (
       <div
-        className="bx-grid"
-        style={{
-          padding: 2 + `rem`,
-          backgroundColor: 'black',
-        }}>
+        className={cx('bx--grid',
+          `${prefix}--buttongroup-grid--${isInverseClass}`
+        )}
+      >
         <div style={{ color: 'white' }}>
           This button group is wrapped within the grid to let the buttons shrink
           when the text gets smaller
         </div>
         <div className="bx--row">
           <div className="bx--col-lg-16 bx--col-md-6 bx--col-sm-16">
-            <ButtonGroup buttons={buttons} />
+            <ButtonGroup buttons={buttons} inverse={inverse}/>
           </div>
         </div>
         <div style={{ color: 'white', paddingTop: '20px' }}>
           This button group is not using the grid, so the buttons won't shrink
           according to the text size
         </div>
-        <ButtonGroup buttons={buttons} />
+        <ButtonGroup buttons={buttons} inverse={inverse}/>
       </div>
     );
   });

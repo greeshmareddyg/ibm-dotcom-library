@@ -51,6 +51,7 @@ function App() {
           renderIcon: ArrowRight20,
         },
       ]}
+      inverse={false}
     />
   );
 }
@@ -97,6 +98,7 @@ function App() {
               },
             ]}
           />
+          inverse={false}  
         </div>
       </div>
     </div>
@@ -113,6 +115,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
 | Name      | Required | Data Type | Default Value | Description                                                 |
 | --------- | -------- | --------- | ------------- | ----------------------------------------------------------- |
 | `buttons` | NO       | Array     | null          | Array of button objects to render. See `Button Item` below. |
+| `inverse` | NO       | Boolean   | false         | Changes theme to inverse/default               |
 
 ### Button Item
 
